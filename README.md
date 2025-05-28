@@ -1,0 +1,2 @@
+# Data-Analyst-project-Walmart-Black-Friday-Spending-Analysis-Gender-Marital-Status-Age-Comparison
+This project explores customer purchase behavior at Walmart during Black Friday, focusing on the impact of gender, marital status, and age group on spending patterns. Using statistical analysis and visualization, the goal is to uncover insights that Walmart can leverage to enhance customer targeting and promotional strategies. 
